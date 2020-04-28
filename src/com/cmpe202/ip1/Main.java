@@ -110,12 +110,11 @@ public class Main {
 		if(getCcInfo()!=null) {
 		for (CreditCard cc : getCcInfo()) {
 
-			// Calling chain of responsibility
-			
-			
+			// Calling Validator chain of responsibility 
 			setCardType(vald.getCardType(cc.getCreditCardNo()));
 
-			//System.out.print(cc.getCreditCardNo() + "\t\t\t" + getCardType() + "\t\t\t");
+
+			//to Create CC Class Instance
 			setCci(ccf.getCCIssuer(getCardType()));
 			
 			cc.setCardType(cardType);
