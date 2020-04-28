@@ -1,0 +1,80 @@
+[
+  {
+    "ExpirationDate": "3/20/2030",
+    "NameOfCardholder": "Alice"
+  },
+  {
+    "CardNumber": 4120000000000,
+    "ExpirationDate": "12/27/2030",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": 341000000000000,
+    "ExpirationDate": "5/20/2030",
+    "NameOfCardholder": ""
+  },
+  {
+    "CardNumber": 6011000000000000,
+    "ExpirationDate": "6/20/2030",
+    "NameOfCardholder": "Richard"
+  },
+  {
+    "CardNumber": 6011000000000000,
+    "ExpirationDate": "12/26/2030",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": "54100000as0000000",
+    "ExpirationDate": "12/26/2030",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": "5410000@00000!00",
+    "ExpirationDate": "12/26/2030",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": null,
+    "ExpirationDate": "12/26/2030",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": 5410000000000000,
+    "ExpirationDate": null,
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": 5410000000000000,
+    "ExpirationDate": "12/26/2030",
+    "NameOfCardholder": null
+  },
+  {
+    "CardNumber": 5410000000000000,
+    "ExpirationDate": "12/26/2030",
+    "NameOfCardholder": "12312312"
+  },
+  {
+    "CardNumber": 5410000000000000,
+    "ExpirationDate": "123123123",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": 5810000000000000,
+    "ExpirationDate": "12/26/2030",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": 351000000000000,
+    "ExpirationDate": "12/26/2030",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": 3410000000000000,
+    "ExpirationDates": "12/26/2030",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "ExpirationDate": "12/26/2030",
+    "NameOfCardholder": "Bob"
+  }
+]
